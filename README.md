@@ -18,7 +18,7 @@ Gender
 Birth Year
 
 *Statistics Computed
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+i'll write code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
 
